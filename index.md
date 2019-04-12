@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Scorched Carbon'
+description: Carbon forged by Fire
 image: null
 author: null
 show_tile: false
