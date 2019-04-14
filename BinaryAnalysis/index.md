@@ -1,5 +1,5 @@
 ---
-title: Cyber ...
+title: Binary Analysis
 layout: landing
 description: 'All things related to Binary Analysis/RE<br />Open-source tools and techniques. How to develop custom tools.'
 image: assets/images/pic07.jpg
