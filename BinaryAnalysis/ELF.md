@@ -2,7 +2,7 @@
 layout: post
 title: Understanding ELF Binaries
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/pic03.jpg
 nav-menu: true
 ---
 
