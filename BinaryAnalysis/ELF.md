@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding ELF Binaries
-description: Lorem ipsum dolor est
+description: Learning structures and segements of an ELF.
 image: assets/images/pic03.jpg
 nav-menu: true
 ---
